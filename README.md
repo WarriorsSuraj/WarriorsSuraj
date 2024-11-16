@@ -1,11 +1,10 @@
 **ABOUT ME**
 - 👋 Hi, I’m @WarriorsSuraj
 - 👀 I’m interested in Competitive Programming and Machine Learning
-- 🌱 I’m currently learning Java for Competitive Programming (DSA)
+- 🌱 I’m currently learning C++ for Competitive Programming (DSA)
 - 💞️ I’m looking to collaborate on any open source projects! (if they interest me)
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love math too!
 
 <!---
 WarriorsSuraj/WarriorsSuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
